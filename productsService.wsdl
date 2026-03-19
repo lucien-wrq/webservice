@@ -1,0 +1,7 @@
+<definitions name="ProductsService"
+  targetNamespace="http://localhost:8000/products"
+  xmlns:tns="http://localhost:8000/products"
+  xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+</definitions>
